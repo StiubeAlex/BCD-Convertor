@@ -1,0 +1,7 @@
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\bin\Debug\ASC  BCD Convertor.exe.config
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\bin\Debug\ASC  BCD Convertor.exe
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\bin\Debug\ASC  BCD Convertor.pdb
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\obj\Debug\ASC  BCD Convertor.csprojAssemblyReference.cache
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\obj\Debug\ASC  BCD Convertor.csproj.CoreCompileInputs.cache
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\obj\Debug\ASC  BCD Convertor.exe
+D:\College\ASC  BCD Convertor\ASC  BCD Convertor\obj\Debug\ASC  BCD Convertor.pdb
